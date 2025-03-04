@@ -4,7 +4,7 @@ I'm Alesia, a frontend-developer from Minsk, Belarus.
 
 #### Tech stack
 
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="height: 30px;"/> HTML5
 
 #### GitHub Stats
 
