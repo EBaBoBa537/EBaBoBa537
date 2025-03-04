@@ -4,23 +4,26 @@ I'm Alesia, a frontend-developer from Minsk, Belarus.
 
 #### Tech stack
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="height: 30px;"/> HTML5
+<div style="display: flex; align-items: center; width: fit-content">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="height: 20px; margin-right: 5px"/> HTML5
+</div>
+<div style="display: flex; align-items: center; width: fit-content">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="height: 20px; margin-right: 5px"/> CSS3
+</div>
+<div style="display: flex; align-items: center; width: fit-content">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="height: 20px; margin-right: 5px"/> Javascript
+</div>
+<div style="display: flex; align-items: center; width: fit-content">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="height: 20px; margin-right: 5px"/> Java
+</div>
+
+
+
+
+
 
 #### GitHub Stats
 
 ![EBaBoBa537's GitHub stats](https://github-readme-stats.vercel.app/api?username=EBaBoBa537&show_icons=true&theme=radical)
 
-<!--
-**EBaBoBa537/EBaBoBa537** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
