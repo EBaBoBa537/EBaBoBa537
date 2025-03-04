@@ -2,7 +2,7 @@
 
 I'm Alesia, a frontend-developer from Minsk, Belarus. 
 
-### Tech stack
+### Tech stack:
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="height: 35px; margin-right: 15px"/> 
@@ -25,7 +25,7 @@ I'm Alesia, a frontend-developer from Minsk, Belarus.
 
 
 
-### GitHub Stats
+### GitHub Stats:
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=EBaBoBa537&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
