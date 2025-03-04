@@ -11,15 +11,15 @@ I'm Alesia, a frontend-developer from Minsk, Belarus.
   </div>   
   <div style="display: inline-flex; align-items: center; width: fit-content;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="height: 20px; margin-right: 5px"/> 
-    <span style="height: 100%; align-items: center>CSS3</span>
+    <span style="height: 100%; align-items: center">CSS3</span>
   </div>
   <div style="display: inline-flex; align-items: center; width: fit-content;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="height: 20px; margin-right: 5px"/> 
-    <span style="height: 100%; align-items: center>Javascript</span>
+    <span style="height: 100%; align-items: center">Javascript</span>
   </div>
   <div style="display: inline-flex; align-items: center; width: fit-content;"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="height: 20px; margin-right: 5px"/> 
-    <span style="height: 100%; align-items: center>Java</span>
+    <span style="height: 100%; align-items: center">Java</span>
   </div>
 </div>
 
