@@ -1,6 +1,6 @@
 ## Hello, World!
 
-#### I'm Alesia, a frontend-developer from Minsk, Belarus. 
+I'm Alesia, a frontend-developer from Minsk, Belarus. 
 
 #### Tech stack
 
