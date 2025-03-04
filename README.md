@@ -4,7 +4,7 @@ I'm Alesia, a frontend-developer from Minsk, Belarus.
 
 #### Tech stack
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; align-items: flex-end">
     <span style="line-height: 30px;">Programming languages:</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="height: 25px; margin-right: 5px"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="height: 25px; margin-right: 5px"/> 
@@ -23,7 +23,7 @@ I'm Alesia, a frontend-developer from Minsk, Belarus.
 <div style="display: flex; flex-direction: row;">
     <span style="line-height: 30px;">Data storage:</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" style="height: 25px; margin-right: 5px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="height: 25px; margin-right: 5px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="height: 25px; margin-right: 5px"/>
 </div>
 
 
