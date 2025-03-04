@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello, World!
+
+#### I'm Alesia, a frontend-developer from Minsk, Belarus. 
+
+#### Tech stack
+
+
+
+#### GitHub Stats
+
+![EBaBoBa537's GitHub stats](https://github-readme-stats.vercel.app/api?username=EBaBoBa537&show_icons=true&theme=radical)
 
 <!--
 **EBaBoBa537/EBaBoBa537** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
