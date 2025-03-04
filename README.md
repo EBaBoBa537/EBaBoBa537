@@ -47,5 +47,5 @@ I'm Alesia, a frontend-developer from Minsk, Belarus.
 
 ![EBaBoBa537's GitHub stats](https://github-readme-stats.vercel.app/api?username=EBaBoBa537&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EBaBoBa537&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
