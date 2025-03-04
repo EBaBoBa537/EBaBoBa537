@@ -1,4 +1,4 @@
-## Hello, World!
+## Hello, developers world!
 
 I'm Alesia, a frontend-developer from Minsk, Belarus. 
 
